@@ -11,7 +11,7 @@ strings.append("world")
 second_name = strings[1]
 
 # print(second_name)
-
+Print (numbers)
 # this code will print the arrays
 print(numbers)
 print(strings)
