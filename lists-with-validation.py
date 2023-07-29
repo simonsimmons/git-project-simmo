@@ -17,6 +17,7 @@ print(numbers)
 print(strings)
 print("The second name on the names list is %s" %
 second_name)
+print ("The second name on the names list is %s" % names[1])
 
 # my tests
 if numbers[0] == 1:
